@@ -4,8 +4,10 @@ Andrew Starling / 100191710
 
 ---------------------------
 
-* Build an Oracle
-* Integrate to IPFS
+Build an Oracle to get price
+and volume of a particular stock.
+Write/Read values to the blockchain.
+
 
 ----------------------------
 
