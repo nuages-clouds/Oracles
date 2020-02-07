@@ -1,4 +1,4 @@
-# Oracles-And-IPFS
+# Oracles
 
 Andrew Starling / 100191710
 
